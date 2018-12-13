@@ -31,3 +31,6 @@ Students should use Toggl for monitoring their time. Mentors to use this while i
 
 ### Daily Standups
 Mentors are advised to do daily Standups with their Mentees for effective goal setting and follow ups.
+
+### use of visual studio 
+student whose function has been compelet wiil use that visual studio
